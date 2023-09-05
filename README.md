@@ -4,4 +4,8 @@ Collection of my minecraft builds
 
 ## Kingdoms SMP
 
-![Guardian Farm](./"Screenshot 2022-07-15 at 12.44.12 PM.png")
+### Guardian Farm
+
+120,0,0
+
+![](images/Screenshot%202022-07-15%20at%2012.44.12%20PM.png)
